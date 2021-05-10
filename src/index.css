@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.headerContainer {
+  background-color: rgb(37, 37, 124);
+  color: white;
+  border-bottom: 5px goldenrod solid;
+}
+
+.sort:hover  {
+  cursor: pointer;
+}
